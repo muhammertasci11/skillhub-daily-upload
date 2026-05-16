@@ -5,6 +5,9 @@ on:
     - cron: '0 10 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   upload:
     runs-on: ubuntu-latest
@@ -19,5 +22,6 @@ jobs:
         run: |
           git config user.name "skillhub-bot"
           git config user.email "bot@skillhub.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git add upload-progress.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update upload progress" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update upload progress [skip ci]" && git push)
