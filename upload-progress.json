@@ -21,7 +21,17 @@
     "aeroleads-automation",
     "affinda-automation",
     "affinity-automation",
-    "agencyzoom-automation"
+    "agencyzoom-automation",
+    "agent-mail-automation",
+    "agentql-automation",
+    "agenty-automation",
+    "agiled-automation",
+    "agility-cms-automation",
+    "ahrefs-automation",
+    "ai-ml-api-automation",
+    "aivoov-automation",
+    "alchemy-automation",
+    "algodocs-automation"
   ],
-  "lastRun": "2026-05-16T22:48:39.361Z"
+  "lastRun": "2026-05-17T10:58:23.543Z"
 }
