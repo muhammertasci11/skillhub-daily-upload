@@ -9,7 +9,17 @@
     "ably-automation",
     "-2chat-automation",
     "-21risk-automation",
-    "TestA"
+    "TestA",
+    "algolia-automation",
+    "all-images-ai-automation",
+    "alpha-vantage-automation",
+    "altoviz-automation",
+    "alttext-ai-automation",
+    "amara-automation",
+    "amazon-automation",
+    "ambee-automation",
+    "ambient-weather-automation",
+    "amcards-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -33,5 +43,5 @@
     "alchemy-automation",
     "algodocs-automation"
   ],
-  "lastRun": "2026-05-17T10:58:23.543Z"
+  "lastRun": "2026-05-18T13:00:17.037Z"
 }
