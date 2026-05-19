@@ -41,7 +41,17 @@
     "ai-ml-api-automation",
     "aivoov-automation",
     "alchemy-automation",
-    "algodocs-automation"
+    "algodocs-automation",
+    "anchor-browser-automation",
+    "anonyflow-automation",
+    "anthropic-administrator-automation",
+    "anthropic_administrator-automation",
+    "apaleo-automation",
+    "apex27-automation",
+    "api-bible-automation",
+    "api-labz-automation",
+    "api-ninjas-automation",
+    "api-sports-automation"
   ],
-  "lastRun": "2026-05-18T13:00:17.037Z"
+  "lastRun": "2026-05-19T12:34:28.256Z"
 }
