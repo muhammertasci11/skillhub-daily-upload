@@ -19,7 +19,17 @@
     "amazon-automation",
     "ambee-automation",
     "ambient-weather-automation",
-    "amcards-automation"
+    "amcards-automation",
+    "api2pdf-automation",
+    "apiflash-automation",
+    "apify-automation",
+    "apilio-automation",
+    "apipie-ai-automation",
+    "apitemplate-io-automation",
+    "apiverve-automation",
+    "apollo-automation",
+    "appcircle-automation",
+    "appdrag-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -53,5 +63,5 @@
     "api-ninjas-automation",
     "api-sports-automation"
   ],
-  "lastRun": "2026-05-19T12:34:28.256Z"
+  "lastRun": "2026-05-20T12:14:59.623Z"
 }
