@@ -29,7 +29,17 @@
     "apiverve-automation",
     "apollo-automation",
     "appcircle-automation",
-    "appdrag-automation"
+    "appdrag-automation",
+    "appointo-automation",
+    "appsflyer-automation",
+    "appveyor-automation",
+    "aryn-automation",
+    "ascora-automation",
+    "ashby-automation",
+    "asin-data-api-automation",
+    "astica-ai-automation",
+    "async-interview-automation",
+    "atlassian-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -63,5 +73,5 @@
     "api-ninjas-automation",
     "api-sports-automation"
   ],
-  "lastRun": "2026-05-20T12:14:59.623Z"
+  "lastRun": "2026-05-21T12:38:29.435Z"
 }
