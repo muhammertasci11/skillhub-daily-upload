@@ -71,7 +71,17 @@
     "api-bible-automation",
     "api-labz-automation",
     "api-ninjas-automation",
-    "api-sports-automation"
+    "api-sports-automation",
+    "attio-automation",
+    "auth0-automation",
+    "autobound-automation",
+    "autom-automation",
+    "axonaut-automation",
+    "ayrshare-automation",
+    "backendless-automation",
+    "bannerbear-automation",
+    "bart-automation",
+    "baselinker-automation"
   ],
-  "lastRun": "2026-05-21T12:38:29.435Z"
+  "lastRun": "2026-05-22T12:12:47.666Z"
 }
