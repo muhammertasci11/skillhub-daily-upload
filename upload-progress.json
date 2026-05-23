@@ -39,7 +39,17 @@
     "asin-data-api-automation",
     "astica-ai-automation",
     "async-interview-automation",
-    "atlassian-automation"
+    "atlassian-automation",
+    "baserow-automation",
+    "basin-automation",
+    "battlenet-automation",
+    "beaconchain-automation",
+    "beaconstac-automation",
+    "beamer-automation",
+    "beeminder-automation",
+    "bench-automation",
+    "benchmark-email-automation",
+    "benzinga-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -83,5 +93,5 @@
     "bart-automation",
     "baselinker-automation"
   ],
-  "lastRun": "2026-05-22T12:12:47.666Z"
+  "lastRun": "2026-05-23T11:03:42.613Z"
 }
