@@ -59,7 +59,17 @@
     "bigml-automation",
     "bigpicture-io-automation",
     "bitquery-automation",
-    "bitwarden-automation"
+    "bitwarden-automation",
+    "blackbaud-automation",
+    "blackboard-automation",
+    "blocknative-automation",
+    "boldsign-automation",
+    "bolna-automation",
+    "boloforms-automation",
+    "bolt-iot-automation",
+    "bonsai-automation",
+    "bookingmood-automation",
+    "booqable-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -103,5 +113,5 @@
     "bart-automation",
     "baselinker-automation"
   ],
-  "lastRun": "2026-05-24T11:06:40.954Z"
+  "lastRun": "2026-05-25T12:55:50.099Z"
 }
