@@ -69,7 +69,17 @@
     "bolt-iot-automation",
     "bonsai-automation",
     "bookingmood-automation",
-    "booqable-automation"
+    "booqable-automation",
+    "borneo-automation",
+    "botbaba-automation",
+    "botpress-automation",
+    "botsonic-automation",
+    "botstar-automation",
+    "bouncer-automation",
+    "boxhero-automation",
+    "braintree-automation",
+    "brandfetch-automation",
+    "breeze-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -113,5 +123,5 @@
     "bart-automation",
     "baselinker-automation"
   ],
-  "lastRun": "2026-05-25T12:55:50.099Z"
+  "lastRun": "2026-05-27T12:47:15.010Z"
 }
