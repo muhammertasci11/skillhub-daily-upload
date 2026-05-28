@@ -79,7 +79,17 @@
     "boxhero-automation",
     "braintree-automation",
     "brandfetch-automation",
-    "breeze-automation"
+    "breeze-automation",
+    "breezy-hr-automation",
+    "brex-automation",
+    "brex-staging-automation",
+    "brightdata-automation",
+    "brightpearl-automation",
+    "brilliant-directories-automation",
+    "browseai-automation",
+    "browser-tool-automation",
+    "browserbase-tool-automation",
+    "browserhub-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -123,5 +133,5 @@
     "bart-automation",
     "baselinker-automation"
   ],
-  "lastRun": "2026-05-27T12:47:15.010Z"
+  "lastRun": "2026-05-28T13:01:14.095Z"
 }
