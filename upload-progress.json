@@ -89,7 +89,17 @@
     "browseai-automation",
     "browser-tool-automation",
     "browserbase-tool-automation",
-    "browserhub-automation"
+    "browserhub-automation",
+    "cabinpanda-automation",
+    "cal-automation",
+    "calendarhero-automation",
+    "callerapi-automation",
+    "callingly-automation",
+    "callpage-automation",
+    "campaign-cleaner-automation",
+    "campayn-automation",
+    "canny-automation",
+    "canvas-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -143,5 +153,5 @@
     "bunnycdn-automation",
     "byteforms-automation"
   ],
-  "lastRun": "2026-05-29T12:40:05.846Z"
+  "lastRun": "2026-05-30T11:11:31.652Z"
 }
