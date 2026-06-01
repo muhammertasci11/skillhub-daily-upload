@@ -109,7 +109,17 @@
     "cdr-platform-automation",
     "census-bureau-automation",
     "centralstationcrm-automation",
-    "certifier-automation"
+    "certifier-automation",
+    "chaser-automation",
+    "chatbotkit-automation",
+    "chatfai-automation",
+    "chatwork-automation",
+    "chmeetings-automation",
+    "cincopa-automation",
+    "claid-ai-automation",
+    "classmarker-automation",
+    "clearout-automation",
+    "clickmeeting-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -163,5 +173,5 @@
     "bunnycdn-automation",
     "byteforms-automation"
   ],
-  "lastRun": "2026-05-31T11:26:05.825Z"
+  "lastRun": "2026-06-01T15:47:19.656Z"
 }
