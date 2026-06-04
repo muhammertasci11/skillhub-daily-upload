@@ -191,7 +191,17 @@
     "cloudinary-automation",
     "cloudlayer-automation",
     "cloudpress-automation",
-    "coassemble-automation"
+    "coassemble-automation",
+    "connecteam-automation",
+    "contentful-automation",
+    "contentful-graphql-automation",
+    "control-d-automation",
+    "conversion-tools-automation",
+    "convertapi-automation",
+    "conveyor-automation",
+    "convolo-ai-automation",
+    "corrently-automation",
+    "countdown-api-automation"
   ],
-  "lastRun": "2026-06-03T14:20:45.676Z"
+  "lastRun": "2026-06-04T12:37:47.541Z"
 }
