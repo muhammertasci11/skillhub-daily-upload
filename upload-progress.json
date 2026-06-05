@@ -129,7 +129,17 @@
     "coinranking-automation",
     "college-football-data-automation",
     "composio-automation",
-    "composio-search-automation"
+    "composio-search-automation",
+    "coupa-automation",
+    "craftmypdf-automation",
+    "crowdin-automation",
+    "crustdata-automation",
+    "cults-automation",
+    "curated-automation",
+    "currents-api-automation",
+    "customerio-automation",
+    "customgpt-automation",
+    "customjs-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -203,5 +213,5 @@
     "corrently-automation",
     "countdown-api-automation"
   ],
-  "lastRun": "2026-06-04T12:37:47.541Z"
+  "lastRun": "2026-06-05T12:31:08.870Z"
 }
