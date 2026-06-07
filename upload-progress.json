@@ -139,7 +139,17 @@
     "currents-api-automation",
     "customerio-automation",
     "customgpt-automation",
-    "customjs-automation"
+    "customjs-automation",
+    "demio-automation",
+    "desktime-automation",
+    "detrack-automation",
+    "dialmycalls-automation",
+    "dialpad-automation",
+    "dictionary-api-automation",
+    "diffbot-automation",
+    "digicert-automation",
+    "digital-ocean-automation",
+    "discordbot-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -223,5 +233,5 @@
     "deel-automation",
     "deepgram-automation"
   ],
-  "lastRun": "2026-06-06T11:15:39.110Z"
+  "lastRun": "2026-06-07T11:42:01.393Z"
 }
