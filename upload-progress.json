@@ -149,7 +149,17 @@
     "diffbot-automation",
     "digicert-automation",
     "digital-ocean-automation",
-    "discordbot-automation"
+    "discordbot-automation",
+    "dnsfilter-automation",
+    "dock-certs-automation",
+    "docker-hub-automation",
+    "docker_hub-automation",
+    "docmosis-automation",
+    "docnify-automation",
+    "docsbot-ai-automation",
+    "docsumo-automation",
+    "docugenerate-automation",
+    "documenso-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -233,5 +243,5 @@
     "deel-automation",
     "deepgram-automation"
   ],
-  "lastRun": "2026-06-07T11:42:01.393Z"
+  "lastRun": "2026-06-08T13:58:16.350Z"
 }
