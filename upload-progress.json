@@ -241,7 +241,17 @@
     "datarobot-automation",
     "deadline-funnel-automation",
     "deel-automation",
-    "deepgram-automation"
+    "deepgram-automation",
+    "documint-automation",
+    "docupilot-automation",
+    "docupost-automation",
+    "docuseal-automation",
+    "doppler-marketing-automation-automation",
+    "doppler-secretops-automation",
+    "dotsimple-automation",
+    "dovetail-automation",
+    "dpd2-automation",
+    "draftable-automation"
   ],
-  "lastRun": "2026-06-08T13:58:16.350Z"
+  "lastRun": "2026-06-09T12:30:44.153Z"
 }
