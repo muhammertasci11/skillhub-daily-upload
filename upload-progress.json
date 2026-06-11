@@ -159,7 +159,17 @@
     "docsbot-ai-automation",
     "docsumo-automation",
     "docugenerate-automation",
-    "documenso-automation"
+    "documenso-automation",
+    "elorus-automation",
+    "emailable-automation",
+    "emaillistverify-automation",
+    "emailoctopus-automation",
+    "emelia-automation",
+    "encodian-automation",
+    "endorsal-automation",
+    "enginemailer-automation",
+    "enigma-automation",
+    "entelligence-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -263,5 +273,5 @@
     "echtpost-automation",
     "elevenlabs-automation"
   ],
-  "lastRun": "2026-06-10T12:48:38.448Z"
+  "lastRun": "2026-06-11T13:50:33.092Z"
 }
