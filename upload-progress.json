@@ -271,7 +271,17 @@
     "dungeon-fighter-online-automation",
     "dynamics365-automation",
     "echtpost-automation",
-    "elevenlabs-automation"
+    "elevenlabs-automation",
+    "eodhd-apis-automation",
+    "epic-games-automation",
+    "esignatures-io-automation",
+    "espocrm-automation",
+    "esputnik-automation",
+    "etermin-automation",
+    "evenium-automation",
+    "eventbrite-automation",
+    "eventee-automation",
+    "eventzilla-automation"
   ],
-  "lastRun": "2026-06-11T13:50:33.092Z"
+  "lastRun": "2026-06-12T12:48:54.972Z"
 }
