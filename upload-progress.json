@@ -169,7 +169,17 @@
     "endorsal-automation",
     "enginemailer-automation",
     "enigma-automation",
-    "entelligence-automation"
+    "entelligence-automation",
+    "everhour-automation",
+    "eversign-automation",
+    "exa-automation",
+    "excel-automation",
+    "exist-automation",
+    "expofp-automation",
+    "extracta-ai-automation",
+    "facebook-automation",
+    "faceup-automation",
+    "factorial-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -283,5 +293,5 @@
     "eventee-automation",
     "eventzilla-automation"
   ],
-  "lastRun": "2026-06-12T12:48:54.972Z"
+  "lastRun": "2026-06-13T11:46:10.281Z"
 }
