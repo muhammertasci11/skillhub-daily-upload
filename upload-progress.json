@@ -179,7 +179,17 @@
     "extracta-ai-automation",
     "facebook-automation",
     "faceup-automation",
-    "factorial-automation"
+    "factorial-automation",
+    "feathery-automation",
+    "felt-automation",
+    "fibery-automation",
+    "fidel-api-automation",
+    "files-com-automation",
+    "fillout-forms-automation",
+    "fillout_forms-automation",
+    "finage-automation",
+    "findymail-automation",
+    "finerworks-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -293,5 +303,5 @@
     "eventee-automation",
     "eventzilla-automation"
   ],
-  "lastRun": "2026-06-13T11:46:10.281Z"
+  "lastRun": "2026-06-14T11:48:47.300Z"
 }
