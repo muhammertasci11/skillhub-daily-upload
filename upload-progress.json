@@ -189,7 +189,17 @@
     "fillout_forms-automation",
     "finage-automation",
     "findymail-automation",
-    "finerworks-automation"
+    "finerworks-automation",
+    "fingertip-automation",
+    "finmei-automation",
+    "fireberry-automation",
+    "firecrawl-automation",
+    "fireflies-automation",
+    "firmao-automation",
+    "fitbit-automation",
+    "fixer-automation",
+    "fixer-io-automation",
+    "flexisign-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -303,5 +313,5 @@
     "eventee-automation",
     "eventzilla-automation"
   ],
-  "lastRun": "2026-06-14T11:48:47.300Z"
+  "lastRun": "2026-06-15T15:36:23.750Z"
 }
