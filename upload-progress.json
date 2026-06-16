@@ -311,7 +311,17 @@
     "evenium-automation",
     "eventbrite-automation",
     "eventee-automation",
-    "eventzilla-automation"
+    "eventzilla-automation",
+    "flowiseai-automation",
+    "flutterwave-automation",
+    "fluxguard-automation",
+    "folk-automation",
+    "fomo-automation",
+    "forcemanager-automation",
+    "formbricks-automation",
+    "formcarry-automation",
+    "formdesk-automation",
+    "formsite-automation"
   ],
-  "lastRun": "2026-06-15T15:36:23.750Z"
+  "lastRun": "2026-06-16T14:51:44.587Z"
 }
