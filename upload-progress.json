@@ -209,7 +209,17 @@
     "getform-automation",
     "gift-up-automation",
     "gigasheet-automation",
-    "giphy-automation"
+    "giphy-automation",
+    "gist-automation",
+    "givebutter-automation",
+    "gladia-automation",
+    "gleap-automation",
+    "globalping-automation",
+    "go-to-webinar-automation",
+    "godial-automation",
+    "gong-automation",
+    "goodbits-automation",
+    "goody-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -343,5 +353,5 @@
     "gatherup-automation",
     "gemini-automation"
   ],
-  "lastRun": "2026-06-18T12:44:55.605Z"
+  "lastRun": "2026-06-19T13:27:11.872Z"
 }
