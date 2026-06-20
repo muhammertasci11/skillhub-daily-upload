@@ -351,7 +351,17 @@
     "gamma-automation",
     "gan-ai-automation",
     "gatherup-automation",
-    "gemini-automation"
+    "gemini-automation",
+    "google-address-validation-automation",
+    "google-admin-automation",
+    "google-classroom-automation",
+    "google-cloud-vision-automation",
+    "google-maps-automation",
+    "google-search-console-automation",
+    "googleads-automation",
+    "googlebigquery-automation",
+    "googlecalendar-automation",
+    "googledocs-automation"
   ],
-  "lastRun": "2026-06-19T13:27:11.872Z"
+  "lastRun": "2026-06-20T11:50:06.918Z"
 }
