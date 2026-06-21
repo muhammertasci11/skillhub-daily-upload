@@ -219,7 +219,17 @@
     "godial-automation",
     "gong-automation",
     "goodbits-automation",
-    "goody-automation"
+    "goody-automation",
+    "googledrive-automation",
+    "googlemeet-automation",
+    "googlephotos-automation",
+    "googleslides-automation",
+    "googlesuper-automation",
+    "googletasks-automation",
+    "google_admin-automation",
+    "google_classroom-automation",
+    "google_maps-automation",
+    "google_search_console-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -363,5 +373,5 @@
     "googlecalendar-automation",
     "googledocs-automation"
   ],
-  "lastRun": "2026-06-20T11:50:06.918Z"
+  "lastRun": "2026-06-21T12:04:53.876Z"
 }
