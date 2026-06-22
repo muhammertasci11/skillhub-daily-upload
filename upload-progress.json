@@ -229,7 +229,17 @@
     "google_admin-automation",
     "google_classroom-automation",
     "google_maps-automation",
-    "google_search_console-automation"
+    "google_search_console-automation",
+    "gorgias-automation",
+    "gosquared-automation",
+    "grafbase-automation",
+    "graphhopper-automation",
+    "griptape-automation",
+    "grist-automation",
+    "groqcloud-automation",
+    "gumroad-automation",
+    "habitica-automation",
+    "hackernews-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -373,5 +383,5 @@
     "googlecalendar-automation",
     "googledocs-automation"
   ],
-  "lastRun": "2026-06-21T12:04:53.876Z"
+  "lastRun": "2026-06-22T15:12:22.674Z"
 }
