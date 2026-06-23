@@ -381,7 +381,17 @@
     "googleads-automation",
     "googlebigquery-automation",
     "googlecalendar-automation",
-    "googledocs-automation"
+    "googledocs-automation",
+    "happy-scribe-automation",
+    "harvest-automation",
+    "hashnode-automation",
+    "helcim-automation",
+    "helloleads-automation",
+    "helpwise-automation",
+    "here-automation",
+    "heygen-automation",
+    "heyreach-automation",
+    "heyzine-automation"
   ],
-  "lastRun": "2026-06-22T15:12:22.674Z"
+  "lastRun": "2026-06-23T12:27:45.286Z"
 }
