@@ -239,7 +239,17 @@
     "groqcloud-automation",
     "gumroad-automation",
     "habitica-automation",
-    "hackernews-automation"
+    "hackernews-automation",
+    "highergov-automation",
+    "highlevel-automation",
+    "honeybadger-automation",
+    "honeyhive-automation",
+    "hookdeck-automation",
+    "hotspotsystem-automation",
+    "html-to-image-automation",
+    "humanitix-automation",
+    "humanloop-automation",
+    "hunter-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -393,5 +403,5 @@
     "heyreach-automation",
     "heyzine-automation"
   ],
-  "lastRun": "2026-06-23T12:27:45.286Z"
+  "lastRun": "2026-06-24T12:13:24.009Z"
 }
