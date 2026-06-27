@@ -421,7 +421,17 @@
     "idea-scale-automation",
     "identitycheck-automation",
     "ignisign-automation",
-    "imagekit-io-automation"
+    "imagekit-io-automation",
+    "ip2proxy-automation",
+    "ip2whois-automation",
+    "ipdata-co-automation",
+    "ipinfo-io-automation",
+    "iqair-airvisual-automation",
+    "jigsawstack-automation",
+    "jobnimbus-automation",
+    "jotform-automation",
+    "jumpcloud-automation",
+    "junglescout-automation"
   ],
-  "lastRun": "2026-06-26T12:05:46.128Z"
+  "lastRun": "2026-06-27T11:19:19.037Z"
 }
