@@ -259,7 +259,17 @@
     "intelliprint-automation",
     "interzoid-automation",
     "ip2location-automation",
-    "ip2location-io-automation"
+    "ip2location-io-automation",
+    "kadoa-automation",
+    "kaggle-automation",
+    "kaleido-automation",
+    "keap-automation",
+    "keen-io-automation",
+    "kickbox-automation",
+    "kit-automation",
+    "klipfolio-automation",
+    "ko-fi-automation",
+    "kommo-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -433,5 +443,5 @@
     "jumpcloud-automation",
     "junglescout-automation"
   ],
-  "lastRun": "2026-06-27T11:19:19.037Z"
+  "lastRun": "2026-06-28T11:40:31.790Z"
 }
