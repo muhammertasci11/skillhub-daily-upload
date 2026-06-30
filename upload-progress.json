@@ -451,7 +451,17 @@
     "jobnimbus-automation",
     "jotform-automation",
     "jumpcloud-automation",
-    "junglescout-automation"
+    "junglescout-automation",
+    "leadoku-automation",
+    "leiga-automation",
+    "lemlist-automation",
+    "lemon-squeezy-automation",
+    "lemon_squeezy-automation",
+    "lessonspace-automation",
+    "lever-automation",
+    "lever-sandbox-automation",
+    "leverly-automation",
+    "lexoffice-automation"
   ],
-  "lastRun": "2026-06-29T13:57:27.608Z"
+  "lastRun": "2026-06-30T12:04:01.604Z"
 }
