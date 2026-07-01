@@ -279,7 +279,17 @@
     "lastpass-automation",
     "launch-darkly-automation",
     "launch_darkly-automation",
-    "leadfeeder-automation"
+    "leadfeeder-automation",
+    "linguapop-automation",
+    "linkhut-automation",
+    "linkup-automation",
+    "listclean-automation",
+    "listennotes-automation",
+    "livesession-automation",
+    "lmnt-automation",
+    "lodgify-automation",
+    "logo-dev-automation",
+    "loomio-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -463,5 +473,5 @@
     "leverly-automation",
     "lexoffice-automation"
   ],
-  "lastRun": "2026-06-30T12:04:01.604Z"
+  "lastRun": "2026-07-01T12:26:52.513Z"
 }
