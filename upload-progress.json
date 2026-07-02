@@ -471,7 +471,17 @@
     "lever-automation",
     "lever-sandbox-automation",
     "leverly-automation",
-    "lexoffice-automation"
+    "lexoffice-automation",
+    "loyverse-automation",
+    "magnetic-automation",
+    "mailbluster-automation",
+    "mailboxlayer-automation",
+    "mailcheck-automation",
+    "mailcoach-automation",
+    "mailerlite-automation",
+    "mailersend-automation",
+    "mails-so-automation",
+    "mailsoftly-automation"
   ],
-  "lastRun": "2026-07-01T12:26:52.513Z"
+  "lastRun": "2026-07-02T12:01:14.437Z"
 }
