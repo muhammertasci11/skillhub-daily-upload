@@ -289,7 +289,17 @@
     "lmnt-automation",
     "lodgify-automation",
     "logo-dev-automation",
-    "loomio-automation"
+    "loomio-automation",
+    "maintainx-automation",
+    "many-chat-automation",
+    "many_chat-automation",
+    "mapbox-automation",
+    "mapulus-automation",
+    "mboum-automation",
+    "melo-automation",
+    "mem-automation",
+    "mem0-automation",
+    "memberspot-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -483,5 +493,5 @@
     "mails-so-automation",
     "mailsoftly-automation"
   ],
-  "lastRun": "2026-07-02T12:01:14.437Z"
+  "lastRun": "2026-07-03T11:59:21.096Z"
 }
