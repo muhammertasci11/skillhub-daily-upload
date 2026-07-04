@@ -491,7 +491,17 @@
     "mailerlite-automation",
     "mailersend-automation",
     "mails-so-automation",
-    "mailsoftly-automation"
+    "mailsoftly-automation",
+    "memberstack-automation",
+    "membervault-automation",
+    "metaads-automation",
+    "metaphor-automation",
+    "mezmo-automation",
+    "microsoft-clarity-automation",
+    "microsoft-tenant-automation",
+    "microsoft_clarity-automation",
+    "minerstat-automation",
+    "missive-automation"
   ],
-  "lastRun": "2026-07-03T11:59:21.096Z"
+  "lastRun": "2026-07-04T11:16:16.881Z"
 }
