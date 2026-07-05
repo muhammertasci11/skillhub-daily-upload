@@ -299,7 +299,17 @@
     "melo-automation",
     "mem-automation",
     "mem0-automation",
-    "memberspot-automation"
+    "memberspot-automation",
+    "mistral-ai-automation",
+    "mistral_ai-automation",
+    "mocean-automation",
+    "moco-automation",
+    "modelry-automation",
+    "moneybird-automation",
+    "moonclerk-automation",
+    "moosend-automation",
+    "mopinion-automation",
+    "more-trees-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -503,5 +513,5 @@
     "minerstat-automation",
     "missive-automation"
   ],
-  "lastRun": "2026-07-04T11:16:16.881Z"
+  "lastRun": "2026-07-05T11:22:18.629Z"
 }
