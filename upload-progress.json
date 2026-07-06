@@ -309,7 +309,17 @@
     "moonclerk-automation",
     "moosend-automation",
     "mopinion-automation",
-    "more-trees-automation"
+    "more-trees-automation",
+    "moxie-automation",
+    "moz-automation",
+    "msg91-automation",
+    "mural-automation",
+    "mx-technologies-automation",
+    "mx-toolbox-automation",
+    "nango-automation",
+    "nano-nets-automation",
+    "nasa-automation",
+    "nasdaq-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -513,5 +523,5 @@
     "minerstat-automation",
     "missive-automation"
   ],
-  "lastRun": "2026-07-05T11:22:18.629Z"
+  "lastRun": "2026-07-06T13:37:11.271Z"
 }
