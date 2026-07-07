@@ -521,7 +521,17 @@
     "microsoft-tenant-automation",
     "microsoft_clarity-automation",
     "minerstat-automation",
-    "missive-automation"
+    "missive-automation",
+    "ncscale-automation",
+    "needle-automation",
+    "neon-automation",
+    "netsuite-automation",
+    "neuronwriter-automation",
+    "neutrino-automation",
+    "neverbounce-automation",
+    "new-relic-automation",
+    "news-api-automation",
+    "new_relic-automation"
   ],
-  "lastRun": "2026-07-06T13:37:11.271Z"
+  "lastRun": "2026-07-07T12:21:18.248Z"
 }
