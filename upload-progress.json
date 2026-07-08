@@ -319,7 +319,17 @@
     "nango-automation",
     "nano-nets-automation",
     "nasa-automation",
-    "nasdaq-automation"
+    "nasdaq-automation",
+    "nextdns-automation",
+    "ngrok-automation",
+    "ninox-automation",
+    "nocrm-io-automation",
+    "npm-automation",
+    "ocr-web-service-automation",
+    "ocrspace-automation",
+    "omnisend-automation",
+    "oncehub-automation",
+    "onedesk-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -533,5 +543,5 @@
     "news-api-automation",
     "new_relic-automation"
   ],
-  "lastRun": "2026-07-07T12:21:18.248Z"
+  "lastRun": "2026-07-08T11:41:07.110Z"
 }
