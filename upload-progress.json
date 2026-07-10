@@ -329,7 +329,17 @@
     "ocrspace-automation",
     "omnisend-automation",
     "oncehub-automation",
-    "onedesk-automation"
+    "onedesk-automation",
+    "onepage-automation",
+    "onesignal-rest-api-automation",
+    "onesignal-user-auth-automation",
+    "onesignal_rest_api-automation",
+    "open-sea-automation",
+    "openai-automation",
+    "opencage-automation",
+    "opengraph-io-automation",
+    "openperplex-automation",
+    "openrouter-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -543,5 +553,5 @@
     "news-api-automation",
     "new_relic-automation"
   ],
-  "lastRun": "2026-07-08T11:41:07.110Z"
+  "lastRun": "2026-07-10T12:18:20.751Z"
 }
