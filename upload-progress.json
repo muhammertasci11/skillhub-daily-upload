@@ -551,7 +551,17 @@
     "neverbounce-automation",
     "new-relic-automation",
     "news-api-automation",
-    "new_relic-automation"
+    "new_relic-automation",
+    "openweather-api-automation",
+    "optimoroute-automation",
+    "owl-protocol-automation",
+    "page-x-automation",
+    "pandadoc-automation",
+    "paradym-automation",
+    "parallel-automation",
+    "parma-automation",
+    "parsehub-automation",
+    "parsera-automation"
   ],
-  "lastRun": "2026-07-10T12:18:20.751Z"
+  "lastRun": "2026-07-11T10:53:11.472Z"
 }
