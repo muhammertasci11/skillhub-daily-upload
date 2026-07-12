@@ -339,7 +339,17 @@
     "opencage-automation",
     "opengraph-io-automation",
     "openperplex-automation",
-    "openrouter-automation"
+    "openrouter-automation",
+    "parseur-automation",
+    "passcreator-automation",
+    "passslot-automation",
+    "payhip-automation",
+    "pdf-api-io-automation",
+    "pdf-co-automation",
+    "pdf4me-automation",
+    "pdfless-automation",
+    "pdfmonkey-automation",
+    "peopledatalabs-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -563,5 +573,5 @@
     "parsehub-automation",
     "parsera-automation"
   ],
-  "lastRun": "2026-07-11T10:53:11.472Z"
+  "lastRun": "2026-07-12T11:03:34.583Z"
 }
