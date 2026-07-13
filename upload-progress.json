@@ -349,7 +349,17 @@
     "pdf4me-automation",
     "pdfless-automation",
     "pdfmonkey-automation",
-    "peopledatalabs-automation"
+    "peopledatalabs-automation",
+    "perigon-automation",
+    "perplexityai-automation",
+    "persistiq-automation",
+    "pexels-automation",
+    "phantombuster-automation",
+    "piggy-automation",
+    "piloterr-automation",
+    "pilvio-automation",
+    "pingdom-automation",
+    "pipeline-crm-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -573,5 +583,5 @@
     "parsehub-automation",
     "parsera-automation"
   ],
-  "lastRun": "2026-07-12T11:03:34.583Z"
+  "lastRun": "2026-07-13T12:24:56.175Z"
 }
