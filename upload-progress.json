@@ -581,7 +581,17 @@
     "parallel-automation",
     "parma-automation",
     "parsehub-automation",
-    "parsera-automation"
+    "parsera-automation",
+    "placekey-automation",
+    "placid-automation",
+    "plain-automation",
+    "plasmic-automation",
+    "platerecognizer-automation",
+    "plisio-automation",
+    "polygon-automation",
+    "polygon-io-automation",
+    "poptin-automation",
+    "postgrid-automation"
   ],
-  "lastRun": "2026-07-13T12:24:56.175Z"
+  "lastRun": "2026-07-14T11:16:30.810Z"
 }
