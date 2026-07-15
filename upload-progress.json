@@ -359,7 +359,17 @@
     "piloterr-automation",
     "pilvio-automation",
     "pingdom-automation",
-    "pipeline-crm-automation"
+    "pipeline-crm-automation",
+    "postgrid-verify-automation",
+    "precoro-automation",
+    "prerender-automation",
+    "printautopilot-automation",
+    "prisma-automation",
+    "prismic-automation",
+    "process-street-automation",
+    "procfu-automation",
+    "productboard-automation",
+    "productlane-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -593,5 +603,5 @@
     "poptin-automation",
     "postgrid-automation"
   ],
-  "lastRun": "2026-07-14T11:16:30.810Z"
+  "lastRun": "2026-07-15T11:20:23.224Z"
 }
