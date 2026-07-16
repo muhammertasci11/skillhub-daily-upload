@@ -369,7 +369,17 @@
     "process-street-automation",
     "procfu-automation",
     "productboard-automation",
-    "productlane-automation"
+    "productlane-automation",
+    "project-bubble-automation",
+    "proofly-automation",
+    "proxiedmail-automation",
+    "pushbullet-automation",
+    "pushover-automation",
+    "quaderno-automation",
+    "qualaroo-automation",
+    "quickbooks-automation",
+    "radar-automation",
+    "rafflys-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -603,5 +613,5 @@
     "poptin-automation",
     "postgrid-automation"
   ],
-  "lastRun": "2026-07-15T11:20:23.224Z"
+  "lastRun": "2026-07-16T11:26:03.316Z"
 }
