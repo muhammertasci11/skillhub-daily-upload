@@ -379,7 +379,17 @@
     "qualaroo-automation",
     "quickbooks-automation",
     "radar-automation",
-    "rafflys-automation"
+    "rafflys-automation",
+    "remote-retrieval-automation",
+    "remove-bg-automation",
+    "renderform-automation",
+    "repairshopr-automation",
+    "replicate-automation",
+    "reply-automation",
+    "reply-io-automation",
+    "resend-automation",
+    "respond-io-automation",
+    "retailed-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -623,5 +633,5 @@
     "refiner-automation",
     "remarkety-automation"
   ],
-  "lastRun": "2026-07-17T11:13:25.466Z"
+  "lastRun": "2026-07-18T10:54:51.814Z"
 }
