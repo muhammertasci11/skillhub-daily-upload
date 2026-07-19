@@ -389,7 +389,17 @@
     "reply-io-automation",
     "resend-automation",
     "respond-io-automation",
-    "retailed-automation"
+    "retailed-automation",
+    "retellai-automation",
+    "retently-automation",
+    "rev-ai-automation",
+    "revolt-automation",
+    "ring-central-automation",
+    "ring_central-automation",
+    "rippling-automation",
+    "ritekit-automation",
+    "rkvst-automation",
+    "rocketlane-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -633,5 +643,5 @@
     "refiner-automation",
     "remarkety-automation"
   ],
-  "lastRun": "2026-07-18T10:54:51.814Z"
+  "lastRun": "2026-07-19T11:03:02.276Z"
 }
