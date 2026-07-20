@@ -399,7 +399,17 @@
     "rippling-automation",
     "ritekit-automation",
     "rkvst-automation",
-    "rocketlane-automation"
+    "rocketlane-automation",
+    "rootly-automation",
+    "rosette-text-analytics-automation",
+    "route4me-automation",
+    "safetyculture-automation",
+    "sage-automation",
+    "salesforce-marketing-cloud-automation",
+    "salesforce-service-cloud-automation",
+    "salesmate-automation",
+    "sap-successfactors-automation",
+    "satismeter-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -643,5 +653,5 @@
     "refiner-automation",
     "remarkety-automation"
   ],
-  "lastRun": "2026-07-19T11:03:02.276Z"
+  "lastRun": "2026-07-20T12:07:56.960Z"
 }
