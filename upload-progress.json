@@ -651,7 +651,17 @@
     "recallai-automation",
     "recruitee-automation",
     "refiner-automation",
-    "remarkety-automation"
+    "remarkety-automation",
+    "scrape-do-automation",
+    "scrapegraph-ai-automation",
+    "scrapfly-automation",
+    "scrapingant-automation",
+    "scrapingbee-automation",
+    "screenshot-fyi-automation",
+    "screenshotone-automation",
+    "seat-geek-automation",
+    "securitytrails-automation",
+    "segmetrics-automation"
   ],
-  "lastRun": "2026-07-20T12:07:56.960Z"
+  "lastRun": "2026-07-21T11:41:13.816Z"
 }
