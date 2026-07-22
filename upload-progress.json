@@ -661,7 +661,17 @@
     "screenshotone-automation",
     "seat-geek-automation",
     "securitytrails-automation",
-    "segmetrics-automation"
+    "segmetrics-automation",
+    "seismic-automation",
+    "semanticscholar-automation",
+    "semrush-automation",
+    "sendbird-ai-chabot-automation",
+    "sendbird-automation",
+    "sendfox-automation",
+    "sendlane-automation",
+    "sendloop-automation",
+    "sendspark-automation",
+    "sensibo-automation"
   ],
-  "lastRun": "2026-07-21T11:41:13.816Z"
+  "lastRun": "2026-07-22T11:41:09.941Z"
 }
