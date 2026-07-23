@@ -671,7 +671,17 @@
     "sendlane-automation",
     "sendloop-automation",
     "sendspark-automation",
-    "sensibo-automation"
+    "sensibo-automation",
+    "seqera-automation",
+    "serpapi-automation",
+    "serpdog-automation",
+    "serply-automation",
+    "servicem8-automation",
+    "sevdesk-automation",
+    "share-point-automation",
+    "share_point-automation",
+    "shipengine-automation",
+    "short-io-automation"
   ],
-  "lastRun": "2026-07-22T11:41:09.941Z"
+  "lastRun": "2026-07-23T11:44:49.273Z"
 }
