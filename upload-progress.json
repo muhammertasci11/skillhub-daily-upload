@@ -409,7 +409,17 @@
     "salesforce-service-cloud-automation",
     "salesmate-automation",
     "sap-successfactors-automation",
-    "satismeter-automation"
+    "satismeter-automation",
+    "short-menu-automation",
+    "shortcut-automation",
+    "shorten-rest-automation",
+    "shortpixel-automation",
+    "shotstack-automation",
+    "sidetracker-automation",
+    "signaturely-automation",
+    "signpath-automation",
+    "signwell-automation",
+    "similarweb-digitalrank-api-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -683,5 +693,5 @@
     "shipengine-automation",
     "short-io-automation"
   ],
-  "lastRun": "2026-07-23T11:44:49.273Z"
+  "lastRun": "2026-07-24T11:29:37.435Z"
 }
