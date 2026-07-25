@@ -691,7 +691,17 @@
     "share-point-automation",
     "share_point-automation",
     "shipengine-automation",
-    "short-io-automation"
+    "short-io-automation",
+    "similarweb_digitalrank_api-automation",
+    "simla-com-automation",
+    "simple-analytics-automation",
+    "simplesat-automation",
+    "sitespeakai-automation",
+    "skyfire-automation",
+    "slackbot-automation",
+    "smartproxy-automation",
+    "smartrecruiters-automation",
+    "sms-alert-automation"
   ],
-  "lastRun": "2026-07-24T11:29:37.435Z"
+  "lastRun": "2026-07-25T11:00:32.891Z"
 }
