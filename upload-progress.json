@@ -701,7 +701,17 @@
     "slackbot-automation",
     "smartproxy-automation",
     "smartrecruiters-automation",
-    "sms-alert-automation"
+    "sms-alert-automation",
+    "smtp2go-automation",
+    "smugmug-automation",
+    "snowflake-automation",
+    "sourcegraph-automation",
+    "splitwise-automation",
+    "spoki-automation",
+    "spondyr-automation",
+    "spotify-automation",
+    "spotlightr-automation",
+    "sslmate-cert-spotter-api-automation"
   ],
-  "lastRun": "2026-07-25T11:00:32.891Z"
+  "lastRun": "2026-07-26T11:12:48.349Z"
 }
