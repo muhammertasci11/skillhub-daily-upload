@@ -721,7 +721,17 @@
     "spondyr-automation",
     "spotify-automation",
     "spotlightr-automation",
-    "sslmate-cert-spotter-api-automation"
+    "sslmate-cert-spotter-api-automation",
+    "superchat-automation",
+    "supportbee-automation",
+    "supportivekoala-automation",
+    "survey-monkey-automation",
+    "survey_monkey-automation",
+    "svix-automation",
+    "sympla-automation",
+    "synthflow-ai-automation",
+    "taggun-automation",
+    "talenthr-automation"
   ],
-  "lastRun": "2026-07-27T12:49:14.061Z"
+  "lastRun": "2026-07-28T11:49:36.557Z"
 }
