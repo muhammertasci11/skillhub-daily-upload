@@ -429,7 +429,15 @@
     "stormglass-io-automation",
     "strava-automation",
     "streamtime-automation",
-    "supadata-automation"
+    "supadata-automation",
+    "tally-automation",
+    "tapfiliate-automation",
+    "tavily-automation",
+    "taxjar-automation",
+    "teamcamp-automation",
+    "telnyx-automation",
+    "templated-automation",
+    "test-app-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -731,7 +739,9 @@
     "sympla-automation",
     "synthflow-ai-automation",
     "taggun-automation",
-    "talenthr-automation"
+    "talenthr-automation",
+    "tapform-automation",
+    "teltel-automation"
   ],
-  "lastRun": "2026-07-28T11:49:36.557Z"
+  "lastRun": "2026-07-29T11:53:30.531Z"
 }
