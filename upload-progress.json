@@ -437,7 +437,14 @@
     "teamcamp-automation",
     "telnyx-automation",
     "templated-automation",
-    "test-app-automation"
+    "test-app-automation",
+    "timelinesai-automation",
+    "timelink-automation",
+    "timely-automation",
+    "tinyurl-automation",
+    "tisane-automation",
+    "toggl-automation",
+    "token-metrics-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -751,7 +758,10 @@
     "ticketmaster-automation",
     "ticktick-automation",
     "timecamp-automation",
-    "timekit-automation"
+    "timekit-automation",
+    "tomba-automation",
+    "tomtom-automation",
+    "toneden-automation"
   ],
-  "lastRun": "2026-07-30T11:44:39.971Z"
+  "lastRun": "2026-07-31T11:51:17.272Z"
 }
