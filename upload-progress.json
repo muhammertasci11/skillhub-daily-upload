@@ -444,7 +444,10 @@
     "tinyurl-automation",
     "tisane-automation",
     "toggl-automation",
-    "token-metrics-automation"
+    "token-metrics-automation",
+    "tpscheck-automation",
+    "triggercmd-automation",
+    "tripadvisor-content-api-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -761,7 +764,14 @@
     "timekit-automation",
     "tomba-automation",
     "tomtom-automation",
-    "toneden-automation"
+    "toneden-automation",
+    "turbot-pipes-automation",
+    "turso-automation",
+    "twelve-data-automation",
+    "twitch-automation",
+    "twocaptcha-automation",
+    "typefully-automation",
+    "typless-automation"
   ],
-  "lastRun": "2026-07-31T11:51:17.272Z"
+  "lastRun": "2026-08-01T11:09:17.648Z"
 }
