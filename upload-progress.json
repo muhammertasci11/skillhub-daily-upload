@@ -447,7 +447,17 @@
     "token-metrics-automation",
     "tpscheck-automation",
     "triggercmd-automation",
-    "tripadvisor-content-api-automation"
+    "tripadvisor-content-api-automation",
+    "u301-automation",
+    "unione-automation",
+    "updown-io-automation",
+    "uploadcare-automation",
+    "uptimerobot-automation",
+    "userlist-automation",
+    "v0-automation",
+    "venly-automation",
+    "veo-automation",
+    "verifiedemail-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -773,5 +783,5 @@
     "typefully-automation",
     "typless-automation"
   ],
-  "lastRun": "2026-08-01T11:09:17.648Z"
+  "lastRun": "2026-08-02T11:10:09.505Z"
 }
