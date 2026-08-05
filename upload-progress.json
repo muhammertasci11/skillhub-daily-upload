@@ -467,7 +467,17 @@
     "wachete-automation",
     "waiverfile-automation",
     "wakatime-automation",
-    "wati-automation"
+    "wati-automation",
+    "wolfram-alpha-api-automation",
+    "woodpecker-co-automation",
+    "workable-automation",
+    "workday-automation",
+    "workiom-automation",
+    "worksnaps-automation",
+    "writer-automation",
+    "xero-automation",
+    "y-gy-automation",
+    "yandex-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -803,5 +813,5 @@
     "wit-ai-automation",
     "wiz-automation"
   ],
-  "lastRun": "2026-08-04T11:54:11.079Z"
+  "lastRun": "2026-08-05T11:50:32.143Z"
 }
