@@ -477,7 +477,17 @@
     "writer-automation",
     "xero-automation",
     "y-gy-automation",
-    "yandex-automation"
+    "yandex-automation",
+    "yelp-automation",
+    "ynab-automation",
+    "yousearch-automation",
+    "zenrows-automation",
+    "zenserp-automation",
+    "zeplin-automation",
+    "zerobounce-automation",
+    "zoho-automation",
+    "zoho-bigin-automation",
+    "zoho-books-automation"
   ],
   "failed": [
     "active-campaign-automation",
@@ -813,5 +823,5 @@
     "wit-ai-automation",
     "wiz-automation"
   ],
-  "lastRun": "2026-08-05T11:50:32.143Z"
+  "lastRun": "2026-08-06T11:56:16.561Z"
 }
