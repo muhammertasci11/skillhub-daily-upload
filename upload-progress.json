@@ -821,7 +821,17 @@
     "whautomate-automation",
     "winston-ai-automation",
     "wit-ai-automation",
-    "wiz-automation"
+    "wiz-automation",
+    "zoho-desk-automation",
+    "zoho-inventory-automation",
+    "zoho-invoice-automation",
+    "zoho-mail-automation",
+    "zoho_bigin-automation",
+    "zoho_books-automation",
+    "zoho_desk-automation",
+    "zoho_inventory-automation",
+    "zoho_invoice-automation",
+    "zoho_mail-automation"
   ],
-  "lastRun": "2026-08-06T11:56:16.561Z"
+  "lastRun": "2026-08-07T10:41:16.890Z"
 }
