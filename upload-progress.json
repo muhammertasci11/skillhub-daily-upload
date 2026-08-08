@@ -831,7 +831,10 @@
     "zoho_desk-automation",
     "zoho_inventory-automation",
     "zoho_invoice-automation",
-    "zoho_mail-automation"
+    "zoho_mail-automation",
+    "zoominfo-automation",
+    "zylvie-automation",
+    "zyte-api-automation"
   ],
-  "lastRun": "2026-08-07T10:41:16.890Z"
+  "lastRun": "2026-08-08T10:19:33.110Z"
 }
